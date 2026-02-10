@@ -1,0 +1,110 @@
+[
+    {
+        "id": "1",
+        "name": "Kablosuz Kulaklık",
+        "description": "Yüksek kaliteli ses deneyimi sunan, aktif gürültü engelleme özellikli kablosuz bluetooth kulaklık. 30 saate kadar pil ömrü ve ergonomik tasarımı ile uzun süreli kullanıma uygundur.",
+        "price": 1299.99,
+        "category": "Elektronik",
+        "imagePath": "assets/images/headphones.png",
+        "rating": 4.5
+    },
+    {
+        "id": "2",
+        "name": "Akıllı Saat",
+        "description": "Nabız ölçer, adım sayar ve uyku takibi özellikleri ile donatılmış akıllı saat. Su geçirmez tasarımı ve şık görünümü ile hem spor hem günlük kullanıma uygun.",
+        "price": 2499.99,
+        "category": "Elektronik",
+        "imagePath": "assets/images/smartwatch.png",
+        "rating": 4.8
+    },
+    {
+        "id": "3",
+        "name": "Deri Cüzdan",
+        "description": "El yapımı gerçek deri cüzdan. 8 kart bölmesi, bozuk para gözü ve RFID koruma teknolojisi ile güvenli ve şık bir aksesuar.",
+        "price": 449.99,
+        "category": "Aksesuar",
+        "imagePath": "assets/images/wallet.png",
+        "rating": 4.2
+    },
+    {
+        "id": "4",
+        "name": "Spor Ayakkabı",
+        "description": "Hafif ve nefes alabilir kumaştan üretilmiş spor ayakkabı. Ortopedik taban yapısı ile yürüyüş ve koşu için ideal konfor sağlar.",
+        "price": 899.99,
+        "category": "Giyim",
+        "imagePath": "assets/images/shoes.png",
+        "rating": 4.6
+    },
+    {
+        "id": "5",
+        "name": "Güneş Gözlüğü",
+        "description": "UV400 koruma sağlayan polarize cam güneş gözlüğü. Titanyum çerçeve ve klasik aviator tasarımı ile tarzınızı tamamlayın.",
+        "price": 649.99,
+        "category": "Aksesuar",
+        "imagePath": "assets/images/sunglasses.png",
+        "rating": 4.3
+    },
+    {
+        "id": "6",
+        "name": "Bluetooth Hoparlör",
+        "description": "Taşınabilir bluetooth hoparlör. 360 derece ses yayılımı, su geçirmez IPX7 koruma ve 12 saat pil ömrü ile her ortamda müzik keyfi.",
+        "price": 799.99,
+        "category": "Elektronik",
+        "imagePath": "assets/images/speaker.png",
+        "rating": 4.4
+    },
+    {
+        "id": "7",
+        "name": "Kışlık Mont",
+        "description": "Su geçirmez ve rüzgar kesici kışlık mont. Kaz tüyü dolgulu, kapüşonlu ve çok cepli tasarımı ile soğuk kış günlerinde sizi sıcak tutar.",
+        "price": 1899.99,
+        "category": "Giyim",
+        "imagePath": "assets/images/jacket.png",
+        "rating": 4.7
+    },
+    {
+        "id": "8",
+        "name": "Sırt Çantası",
+        "description": "Laptop bölmeli su geçirmez sırt çantası. USB şarj portu, anti-hırsızlık fermuarı ve ergonomik sırt desteği ile günlük ve seyahat kullanımına uygun.",
+        "price": 549.99,
+        "category": "Aksesuar",
+        "imagePath": "assets/images/backpack.png",
+        "rating": 4.5
+    },
+    {
+        "id": "9",
+        "name": "Masa Lambası",
+        "description": "LED masa lambası. Dokunmatik kontrol, 5 kademeli parlaklık ayarı ve göz koruma teknolojisi ile çalışma ve okuma için ideal aydınlatma.",
+        "price": 349.99,
+        "category": "Ev & Yaşam",
+        "imagePath": "assets/images/lamp.png",
+        "rating": 4.1
+    },
+    {
+        "id": "10",
+        "name": "Seramik Kupa Seti",
+        "description": "El boyaması 4'lü seramik kupa seti. Minimalist tasarımı ve pastel renkleri ile mutfağınıza şıklık katar. Bulaşık makinesine uygundur.",
+        "price": 199.99,
+        "category": "Ev & Yaşam",
+        "imagePath": "assets/images/cups.png",
+        "rating": 4.0
+    },
+    {
+        "id": "11",
+        "name": "Tablet Standı",
+        "description": "Ayarlanabilir alüminyum tablet ve telefon standı. 360 derece dönebilen yapısı ve kaymaz tabanı ile her açıdan rahat kullanım sağlar.",
+        "price": 249.99,
+        "category": "Elektronik",
+        "imagePath": "assets/images/stand.png",
+        "rating": 4.3
+    },
+    {
+        "id": "12",
+        "name": "Pamuklu T-Shirt",
+        "description": "Organik pamuktan üretilmiş basic t-shirt. Nefes alabilir kumaşı ve rahat kalıbı ile her mevsim giyilebilir. Çevre dostu üretim.",
+        "price": 179.99,
+        "category": "Giyim",
+        "imagePath": "assets/images/tshirt.png",
+        "rating": 4.4
+    }
+]
