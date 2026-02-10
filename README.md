@@ -6,62 +6,63 @@
 
 Mini Katalog Uygulaması, Flutter ile geliştirilmiş, modern ve kullanıcı dostu bir e-ticaret katalog uygulamasıdır. Kullanıcıların ürünleri keşfetmesine, detaylarını incelemesine ve favorilerine eklemesine olanak tanır.
 
-## 📱 Özellikler
+## 📱 Features
 
-*   **Premium UI Tasarımı:** Jet Black & Gold teması ile şık ve modern görünüm.
-*   **Gelişmiş Navigasyon:** Özel sayfa geçiş animasyonları ve Named Route yapısı.
-*   **Dinamik Filtreleme:** Kategori bazlı filtreleme ve gerçek zamanlı ürün arama.
-*   **Detaylı Ürün Ekranı:** Hero animasyonları ile zenginleştirilmiş ürün detay sayfası.
-*   **Favori Sistemi:** Beğenilen ürünleri yerel olarak favorilere ekleme ve yönetme.
-*   **Responsive Izgara:** Farklı ekran boyutlarına uyumlu ürün listeleme.
-*   **API Entegrasyonu (Simülasyon & Gerçek):** Hem yerel JSON verisi hem de `ProductsApiService` ile uzak sunucudan veri çekme altyapısı (Repository Pattern).
+*   **Premium UI Design:** Jet Black & Gold teması ile şık ve modern görünüm.
+*   **Advanced Navigation:** Özel sayfa geçiş animasyonları ve Named Route yapısı.
+*   **Dynamic Filtering:** Kategori bazlı filtreleme ve gerçek zamanlı ürün arama.
+*   **Product Detail Screen:** Hero animasyonları ile zenginleştirilmiş ürün detay sayfası.
+*   **Favorites System:** Beğenilen ürünleri yerel olarak favorilere ekleme ve yönetme.
+*   **Responsive Grid:** Farklı ekran boyutlarına uyumlu ürün listeleme.
+*   **API Integration (Simulation & Real):** Hem yerel JSON verisi hem de `ProductsApiService` ile uzak sunucudan veri çekme altyapısı (Repository Pattern).
 
-## 🛠 Teknoloji Yığını
+## 🛠 Tech Stack
 
-*   **Flutter & Dart:** Uygulama geliştirme ve programlama dili.
-*   **State Management:** `setState` ve `Repository Pattern` ile veri yönetimi.
-*   **Assets:** Yerel JSON verisi ve görsel yönetimi.
-*   **Networking:** `HttpClient` ile REST API istekleri.
+*   **Flutter & Dart:** Mobile Application Development Framework
+*   **State Management:** `setState` & `Repository Pattern`
+*   **Assets:** Local JSON Data & Asset Management
+*   **Networking:** `HttpClient` & REST API Integration
+*   **Architecture:** Clean Architecture Principles
 
-## 📂 Proje Yapısı
+## 📂 Project Structure
 
 Proje, temiz mimari prensiplerine uygun olarak organize edilmiştir:
 
 ```
 lib/
-├── config/       # API ve uygulama konfigürasyonları
-├── constants/    # Renkler, metinler, stiller ve yardımcı fonksiyonlar
-├── data/         # Veri kaynakları (JSON, API Servisleri, Repository)
-├── models/       # Veri modelleri (Product)
-├── screens/      # Uygulama ekranları (Home, List, Detail, Favorites)
-└── widgets/      # Yeniden kullanılabilir UI bileşenleri (Cards, Chips, Bars)
+├── config/       # API & App Configuration
+├── constants/    # Colors, Strings, Styles & Helpers
+├── data/         # Data Sources (JSON, API Services, Repository)
+├── models/       # Data Models (Product)
+├── screens/      # Application Screens (Home, List, Detail, Favorites)
+└── widgets/      # Reusable UI Components (Cards, Chips, Bars)
 ```
 
-## 🚀 Kurulum
+## 🚀 Installation
 
-1.  Projeyi klonlayın:
+1.  Clone the repository:
     ```bash
     git clone https://github.com/BGirginn/TNC_Mobile_Project.git
     ```
-2.  Proje dizinine gidin:
+2.  Navigate to the project directory:
     ```bash
     cd TNC_Mobile_Project
     ```
-3.  Bağımlılıkları yükleyin:
+3.  Install dependencies:
     ```bash
     flutter pub get
     ```
-4.  Uygulamayı çalıştırın:
+4.  Run the application:
     ```bash
     flutter run
     ```
 
-## 📸 Ekran Görüntüleri
+## 📸 Screenshots
 
-| Ana Sayfa | Ürün Listesi | Detay Sayfası |
+| Home Screen | Product List | Detail Screen |
 |:---:|:---:|:---:|
-| *(Ekran görüntüsü eklenecek)* | *(Ekran görüntüsü eklenecek)* | *(Ekran görüntüsü eklenecek)* |
+| *(Screenshots to be added)* | *(Screenshots to be added)* | *(Screenshots to be added)* |
 
-## 📝 Lisans
+## 📝 License
 
 Bu proje MIT lisansı altında lisanslanmıştır. Detaylar için `LICENSE` dosyasına bakınız.
