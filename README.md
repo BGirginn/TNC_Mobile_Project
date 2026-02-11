@@ -59,9 +59,9 @@ lib/
 
 ## 📸 Screenshots
 
-| Home Screen | Product List | Detail Screen |
-|:---:|:---:|:---:|
-| *(Screenshots to be added)* | *(Screenshots to be added)* | *(Screenshots to be added)* |
+| Ekran Görüntüsü 1 | Ekran Görüntüsü 2 |
+|:---:|:---:|
+| ![Screenshot 1](Screenshot%202026-02-11%20at%2018.09.50.png) | ![Screenshot 2](Screenshot%202026-02-11%20at%2018.09.56.png) |
 
 ## 📝 License
 
